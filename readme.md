@@ -4,7 +4,7 @@ Willkommen zum Blockseminar "Korpuslinguistik in der historischen Sprachwissensc
 
 
 ## Materialien
-folgen in Kürze
+<a href="https://github.com/hartmast/korpling-siegen/raw/master/hausarbeiten.pdf">Leitfaden zum Verfassen einer sprachwissenschaftlichen Hausarbeit</a>
 
 ## Korpora
 <a href="https://korpling.german.hu-berlin.de/annis3/ddd">Referenzkorpus Altdeutsch (aka Deutsch Diachron Digital)</a>
