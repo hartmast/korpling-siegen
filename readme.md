@@ -8,6 +8,22 @@ Willkommen zum Blockseminar "Korpuslinguistik in der historischen Sprachwissensc
 
 <a href="https://github.com/hartmast/korpling-siegen/raw/master/hausarbeiten.pdf" target="_blank">Leitfaden zum Verfassen einer sprachwissenschaftlichen Hausarbeit</a>
 
+## Tutorials
+Diese Tutorials stammen aus dem Begleitmaterial zu meinem Buch "Deutsche Sprachgeschichte. Grundzüge und Methoden". An einigen wenigen Stellen wird auf das Buch Bezug genommen; sie sind jedoch so konzipiert, dass man sie unabhängig von dem Buch lesen und benutzen kann.
+
+### Vom Korpus zur Konkordanz
+1.	<a href="https://github.com/hartmast/sprachgeschichte/raw/master/begleitmaterial/01-Grundlegendes.pdf">Grundlegendes: Software, Datenstrukturen, Encoding und das geheime Leben meines Computers</a>
+2.	<a href="https://github.com/hartmast/sprachgeschichte/raw/master/begleitmaterial/02-Arbeitsschritte.pdf">Arbeitsschritte: Vom Korpus zur Konkordanz zur Analyse</a>
+3.	<a href="https://github.com/hartmast/sprachgeschichte/raw/master/begleitmaterial/03-ANNIS.pdf">Tutorial: ANNIS (Referenzkorpora Altdeutsch, Mittelhochdeutsch, ...)</a>
+4.	<a href="https://github.com/hartmast/sprachgeschichte/raw/master/begleitmaterial/04-CosmasII_Tutorial.pdf">Tutorial: COSMAS II (Deutsches Referenzkorpus)</a>
+5.	<a href="https://github.com/hartmast/sprachgeschichte/raw/master/begleitmaterial/05-FnhdC.pdf">Tutorial: Bonner Frühneuhochdeutschkorpus (altes Interface)</a> (R-Skript im Ordner <a href="https://github.com/hartmast/sprachgeschichte/tree/master/begleitmaterial/FnhdC">FnhdC</a> auf GitHub)
+
+### Von der Konkordanz zur Analyse
+6.	<a href="https://github.com/hartmast/sprachgeschichte/raw/master/begleitmaterial/06-Tabellen%20und%20Grafiken%20mit%20Excel%20und%20Calc.pdf">Tutorial: Tabellen und Grafiken mit Excel und Calc</a> (Material dazu im Ordner <a href="https://github.com/hartmast/sprachgeschichte/tree/master/begleitmaterial/Excel_Einstieg">Excel_Einstieg</a> auf GitHub)
+7.	<a href="https://github.com/hartmast/sprachgeschichte/raw/master/begleitmaterial/07-Schnelleinstieg%20in%20R.pdf"> Tutorial: Schnelleinstieg in R</a> (Material dazu im Ordner <a href="https://github.com/hartmast/sprachgeschichte/tree/master/begleitmaterial/R_Einstieg">R_Einstieg</a> auf GitHub)
+8.	<a href="https://github.com/hartmast/sprachgeschichte/raw/master/begleitmaterial/08-concordances.pdf">Tutorial: R-Paket „concordances“</a>
+
+
 ## Korpora
 <a href="https://korpling.german.hu-berlin.de/annis3/ddd" target="_blank">Referenzkorpus Altdeutsch (aka Deutsch Diachron Digital)</a>
 
