@@ -39,8 +39,8 @@ Das Deutsche Referenzkorpus (DeReKo) ist über die Schnittstelle COSMAS II zugä
 
 Korpus mit Internetdaten, <a href="http://nl.ijs.si/noske/wacs.cgi/first_form" target="_blank">hier</a> frei und ohne Anmeldung zugänglich. (Allerdings hatte das Interface im letzten Jahr einige Bugs, von denen ich nicht weiß, ob sie inzwischen behoben sind. Wenn nicht, können einige - gerade komplexere - Suchanfragen zu Fehlermeldungen führen.)
 
-## Weiter Links
-<a href="https://hartmast.github.io/sprachgeschichte/"> Digitales Begleitmaterial zu Hartmann (2018)</a>
+## Weitere Links
+<a href="https://hartmast.github.io/sprachgeschichte/" target="_blank"> Digitales Begleitmaterial zu Hartmann (2018)</a>
 
-<a href="https://www.bubenhofer.com/korpuslinguistik/kurs/index.php?id=uebersicht.html">Noah Bubenhofer: Einführung in die Korpuslinguistik</a>
+<a href="https://www.bubenhofer.com/korpuslinguistik/kurs/index.php?id=uebersicht.html" target="_blank">Noah Bubenhofer: Einführung in die Korpuslinguistik</a>
 
