@@ -15,6 +15,7 @@ Die beiden Referenzkorpora enthalten alle überlieferten Texte des Althochdeutsc
 
 Die Referenzkorpora werden in absehbarer Zeit ergänzt durch das Referenzkorpus Mittelniederdeutsch und das Referenzkorpus Frühneuhochdeutsch.
 
+
 <a href="http://deutschestextarchiv.de/" target="_blank">Deutsches Textarchiv</a>
 
 Diachrones Korpus (ca. 1500-1900) mit ca. 154 Millionen laufenden Wortformen. Wegen der besseren Exportmöglichkeiten empfehle ich, zum Durchsuchen <a href="https://www.dwds.de/" target="_blank">DWDS</a> (s.u.) zu verwenden.
