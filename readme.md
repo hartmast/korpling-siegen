@@ -4,6 +4,8 @@ Willkommen zum Blockseminar "Korpuslinguistik in der historischen Sprachwissensc
 
 
 ## Materialien
+<a href="https://github.com/hartmast/korpling-siegen/raw/master/Seminarplan2018.pdf">Seminarplan</a>
+
 <a href="https://github.com/hartmast/korpling-siegen/raw/master/hausarbeiten.pdf" target="_blank">Leitfaden zum Verfassen einer sprachwissenschaftlichen Hausarbeit</a>
 
 ## Korpora
