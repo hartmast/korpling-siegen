@@ -1,7 +1,10 @@
-
-
 # Wir basteln uns ein Postillon-Korpus!
 # ---------------------------------------
+
+
+# Bevor wir beginnen: Beachten Sie bitte, dass allzu vehementes Crawlen
+# Server stark belasten kann. Deshalb lassen Sie mich bitte das Skript
+# im Seminar demonstrieren und führen Sie es nicht gleichzeitig selbst aus...
 
 
 # Startseite des Postillon einlesen
@@ -133,7 +136,7 @@ for(i in 2:length(seiten)) {
 
 # Jetzt speichern wir den Text in einer Textdatei.
 write.table(unser_text,        # das Objekt, das in die Datei geschrieben werden soll
-            "post1.txt",       # der Dateiname
+            "post2018_1.txt",       # der Dateiname
             quote=F,           # die einzelnen Wörter sollen nicht in Anführungszeichen stehen
             row.names = F,     # keine Zeilennummerierung
             col.names = F,     # keine Spaltennamen (sonst fügt er ganz oben ein "x" ein)
@@ -141,18 +144,33 @@ write.table(unser_text,        # das Objekt, das in die Datei geschrieben werden
 
 
 
-# jetzt lassen wir den TreeTagger über das Ganze laufen
-# (in der Kommandozeile)
-
-# Befehle dafür (Pfadangaben bitte anpassen):
-# cd "/Users/stefanhartmann/Dropbox/Privat/Seminar WiSe201617/Siegen"
-# /Users/stefanhartmann/Downloads/cmd/tree-tagger-german post1.txt > post2.txt
 
 
-# jetzt lesen wir den Text wieder ein:
-unser_getaggter_text <- read.table("post2.txt", sep="\t", 
-                                   head=F, encoding="UTF-8", quote="", fill=T)
+
+
+# Paket koRpus installieren und laden
+# Hinweis: Um koRpus zu benutzen, muss der TreeTagger installiert sein!
+if(!is.element("koRpus", installed.packages())) { install.packages("koRpus") }
+library(koRpus)
+
+# Vektor mit der Funktion treetag aus dem Paket koRpus taggen
+# Hinweis: Pfad zum TreeTagger muss natürlich angepasst werden!
+# Beachten Sie, dass unter Windows statt / bei Pfadangaben doppelte Backslashes \\
+# verwendet werden müssen.
+unser_getaggter_text <- treetag(unser_text,
+                                treetagger = "manual", 
+                                TT.options = list(path = "/Users/stefanhartmann/Downloads/TreeTagger/",
+                                                          preset = "de"), lang = "de", format = "obj")
 
 unser_getaggter_text
 
+# alternativ können wir den TreeTagger in der Kommandozeile verwenden
 
+# Befehle dafür (Pfadangaben müssen natürlich angepasst werden):
+# cd "/Users/stefanhartmann/Dropbox/Privat/Siegen2018/Siegen"
+# tree-tagger-german post2018_1.txt > post2018_2.txt
+
+# jetzt lesen wir den Text wieder ein: (entkommentieren)
+# unser_getaggter_text <- read.table("post2.txt", sep="\t", 
+#                                   head=F, encoding="UTF-8", quote="", fill=T)
+# unser_getaggter_text
