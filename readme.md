@@ -1,12 +1,4 @@
----
-title: "Korpuslinguistik in der historischen Sprachwissenschaft des Deutschen"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
+## Korpuslinguistik in der historischen Sprachwissenschaft des Deutschen
 
 Willkommen zum Blockseminar "Korpuslinguistik in der historischen Sprachwissenschaft des Deutschen"! Hier finden Sie die Materialien für das Seminar sowie einige (hoffentlich) nützliche Links.
 
