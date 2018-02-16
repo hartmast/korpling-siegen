@@ -35,7 +35,7 @@ und mehr. Hilfe zur Suche gibt es <a href="https://www.dwds.de/d/suche" target="
 
 Das Deutsche Referenzkorpus (DeReKo) ist über die Schnittstelle COSMAS II zugänglich (Registrierung erforderlich). Neben dem umfangreichen W-Archiv enthält es auch getaggte Korpora (TAGGED-C / TAGGED-T), ein Korpus gesprochener Sprache sowie Korpora mit Wikipedia-Artikeln und -Diskussionen.
 
-<a href="http://wacky.sslmit.unibo.it/doku.php" target)"_blank">WaCky - The Web-As-Corpus Kool Yinitiative</a>
+<a href="http://wacky.sslmit.unibo.it/doku.php" target="_blank">WaCky - The Web-As-Corpus Kool Yinitiative</a>
 
 Korpus mit Internetdaten, <a href="http://nl.ijs.si/noske/wacs.cgi/first_form" target="_blank">hier</a> frei und ohne Anmeldung zugänglich. (Allerdings hatte das Interface im letzten Jahr einige Bugs, von denen ich nicht weiß, ob sie inzwischen behoben sind. Wenn nicht, können einige - gerade komplexere - Suchanfragen zu Fehlermeldungen führen.)
 
