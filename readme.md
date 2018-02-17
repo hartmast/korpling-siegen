@@ -36,6 +36,8 @@ Für den Kurs brauchen Sie im Grunde nichts zu installieren, da alle Programme b
 
 <a href="https://www.libreoffice.org/">LibreOffice</a> Das LibreOffice-Paket ist eine kostenlose Alternative zu Microsoft Office, wobei insbesondere das Tabellenkalkulationsprogramm Calc einige Pluspunkte gegenüber Excel aufweist, v.a. was den Support von Unicode-Sonderzeichen angeht.
 
+<a href="http://www.laurenceanthony.net/software.html">AntConc</a> Ein einfacher Concordancer für Rohtext-Dateien; ideal geeignet, wenn Sie Ihr erstes eigenes Korpus aus einfachen, unannotierten Texten erstellen.
+
 <a href="https://gate.ac.uk/">GATE</a> General Architecture for Text Engineering: Ein sehr praktisches und vergleichsweise einfach zu bedienendes Programm, in dem man Texte in einer grafischen Benutzeroberfläche annotieren kann. Output im XML-Format. Eher für die Korpuserstellung als für die Korpusauswertung relevant; aber es kann nicht schaden, einmal davon gehört zu haben :-)
 
 
