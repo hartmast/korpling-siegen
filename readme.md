@@ -2,6 +2,11 @@
 
 Willkommen zum Blockseminar "Korpuslinguistik in der historischen Sprachwissenschaft des Deutschen"! Hier finden Sie die Materialien für das Seminar sowie einige (hoffentlich) nützliche Links.
 
+## Wie man dieses Material benutzt
+Diese Seite beinhaltet die im Kurs verwendeten Materialien sowie weiteres Material, das für die weitergehende Beschäftigung mit Korpuslinguistik nützlich sein kann. Wenn Sie diese Seite auf hartmast.github.io/korpling-siegen sehen, dann können Sie sich diese Seite vorstellen wie die "Außenfassade" zu einem kleinen Lädchen, das allerlei Werkzeuge für die Korpuslinguistik verkauft (oder besser: verschenkt, denn alles, was hier zur Verfügung gestellt wird, ist natürlich kostenlos).
+
+Einige Tutorials und Materialien sind direkt auf der Seite verlinkt, die Sie gerade lesen. Einige Beispiel-Datensätze, die wir im Kurs verwenden, sind jedoch im "Laden" versteckt. Der "Laden" ist das Github-Repository, zu dem diese Seite gehört. Wenn Sie das gesamte Repository sehen wollen, können Sie links auf "View on GitHub" klicken. Sie können auch einfach das gesamte Repository mit Klick auf einen der Download-Buttons herunterladen und haben dann gleich alle Materialien auf Ihrem Rechner.
+
 
 ## Kursmaterialien
 <a href="https://github.com/hartmast/korpling-siegen/raw/master/Seminarplan2018.pdf">Seminarplan</a>
