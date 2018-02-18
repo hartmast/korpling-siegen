@@ -1,0 +1,5 @@
+Das ist eine fiktive Konkordanz. Sie sollen vor und nach dem Wort Keyword Tabstopps einfügen.
+In jeder Zeile kommt das Wort Keyword genau einmal vor.
+Einfacher wird das Ganze dadurch, dass keine Flexionsformen des Wortes Keyword in der Konkordanz enthalten sind.
+Wären Flexionsformen des Wortes Keyword enthalten, wäre die Aufgabe schwieriger zu lösen.
+Hier halten wir die Aufgabe einfach, indem das Keyword invariant bleibt.

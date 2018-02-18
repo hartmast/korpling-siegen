@@ -1,0 +1,5 @@
+Das ist eine fiktive Konkordanz. Sie sollen vor und nach Flexionsformen des Wortes Keyword Tabstopps einfügen.
+In jeder Zeile kommt eine Flexionsform des Wortes Keyword vor.
+In dieser Zeile zum Beispiel findet sich Keywords, also die Pluralform.
+Weil Keyword eine nur schwach ins deutsche Flexionssystem interierte Entlehnung aus dem Englischen ist, finden wir insgesamt nur zwei Flexionsformen.
+Das ist gut für uns, weil es die Suche nach den Keywords und das Einfügen der Tabstopps einfacher macht.
