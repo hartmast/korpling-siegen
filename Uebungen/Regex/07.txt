@@ -1,0 +1,11 @@
+Hier üben wir (erneut) Lookaround Assertions ein...
+
+Dies ist eine fiktive Konkordanz. In manchen Zeilen kommt das Wort "Keyword" genau einmal vor.
+In anderen Zeilen dagegen taucht das Wort "Keyword" mehr als einmal auf.
+Das gefällt uns nicht, denn wir wollen eine Konkordanz, in der das Keyword einmal pro Zeile auftaucht.
+Deshalb wollen wir dort, wo das Keyword, also "Keyword", mehrfach auftaucht, vor "Keyword" einen Zeilenumbruch einfügen.
+Zudem wollen wir vor und nach dem Keyword "Keyword" einen Tabstopp einfügen.
+Erschwert wird das dadurch, dass in dieser Zeile statt der Grundform des Keywords, also "Keyword", die Pluralform Keywords verwendet wird.
+Am Ende soll die Konkordanz so aussehen, dass das Keyword "Keyword" in jeder Zeile in der zweiten Spalte steht.
+Die zweite Spalte ist nämlich die Keyword-Spalte, während in der ersten und dritte Spalte der Kontext steht.
+Außerdem sollen die Satzzeichen wieder isoliert stehen.

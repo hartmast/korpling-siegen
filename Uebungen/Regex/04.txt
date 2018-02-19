@@ -1,4 +1,11 @@
-Das ist eine fiktive Konkordanz. Hier gilt es, die Groß- und Kleinschreibung aus dem Dokument zu entfernen.
-Das kann manchmal hilfreich sein, wenn man z.B. mit englischen Daten arbeitet und sicherstellen möchte,
-dass Wörter mit satzinitialer Großschreibung sich nicht von ihren Pendants im Satz unterscheiden
-(denn im Englischen gibt es ja bekanntlich keine satzinterne Großschreibung).
+01
+Das ist eine fiktive Konkordanz. Hier sind die <b>Keywords</b> durch "b" in spitzen Klammern abgetrennt.
+
+02
+Darüber hinaus gibt es eine Nummerierung, die jeweils eine eigene Zeile ohne <b>Keyword</b> oder sonstigen Text beansprucht.
+
+03
+Das wollen wir ändern: Jede Zeile soll aus vier Spalten bestehen, mit Nummer, linkem Kontext, <b>Keyword</b> und rechtem Kontext.
+
+04
+Dafür müssen wir zuerst die leeren Zeilen entfernen und dann einen Weg finden, die Zeilen mit und ohne <b>Keyword</b> zusammenzuführen.

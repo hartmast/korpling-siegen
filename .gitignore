@@ -1,3 +1,4 @@
 *.pptx
+*.docx
 .Rhistory
 .DS_Store

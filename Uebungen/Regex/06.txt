@@ -1,0 +1,7 @@
+In diesem Übungstext gilt es, reguläre Ausdrücke einzusetzen, die "non-greedy" sind:
+Bitte löschen Sie mit nur einem Befehl alles, was in den folgenden Zeilen zwischen spitzen Klammern steht!
+
+<a href="mailto:daisy.duck@entenhausen.com">daisy.duck@entenhausen.com</a>
+<a href="mailto:hannibal.lecter@chefkoch.de">hannibal.lecter@chefkoch.de</a>
+<a href="mailto:james.bond@mi6.co.uk">james.bond@mi6.co.uk</a>
+<a href="mailto:ellen.ripley@nostromo.com">ellen.ripley@nostromo.com</a>

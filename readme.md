@@ -74,11 +74,15 @@ und mehr. Hilfe zur Suche gibt es <a href="https://www.dwds.de/d/suche" target="
 
 <a href="https://cosmas2.ids-mannheim.de/cosmas2-web/" target="_blank">DeReKo / COSMAS II</a> 
 
-Das Deutsche Referenzkorpus (DeReKo) ist über die Schnittstelle COSMAS II zugänglich (Registrierung erforderlich). Neben dem umfangreichen W-Archiv enthält es auch getaggte Korpora (TAGGED-C / TAGGED-T), ein Korpus gesprochener Sprache sowie Korpora mit Wikipedia-Artikeln und -Diskussionen.
+Das Deutsche Referenzkorpus (DeReKo) ist über die Schnittstelle COSMAS II zugänglich (Registrierung erforderlich). Neben dem umfangreichen W-Archiv enthält es auch getaggte Korpora (TAGGED-C / TAGGED-T), ein Korpus gesprochener Sprache sowie Korpora mit Wikipedia-Artikeln und -Diskussionen. (Einmalige kostenlose Anmeldung erforderlich.)
 
 <a href="http://wacky.sslmit.unibo.it/doku.php" target="_blank">WaCky - The Web-As-Corpus Kool Yinitiative</a>
 
 Korpus mit Internetdaten, <a href="http://nl.ijs.si/noske/wacs.cgi/first_form" target="_blank">hier</a> frei und ohne Anmeldung zugänglich. (Allerdings hatte das Interface im letzten Jahr einige Bugs, von denen ich nicht weiß, ob sie inzwischen behoben sind. Wenn nicht, können einige - gerade komplexere - Suchanfragen zu Fehlermeldungen führen.)
+
+<a href="http://corporafromtheweb.org/">Corpora from the Web (COW)</a> 
+
+Sammlung von Internet-Korpora mit umfangreicher automatischer Annotation. Registrierung notwendig; für Studierende derzeit <strong>nicht</strong> zugänglich. Da die Korpora aber derzeit breit genutzt werden, sollte man einmal davon gehört haben...
 
 ## Weitere Links
 <a href="https://hartmast.github.io/sprachgeschichte/" target="_blank"> Digitales Begleitmaterial zu Hartmann (2018)</a>

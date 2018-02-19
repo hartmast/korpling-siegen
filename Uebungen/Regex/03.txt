@@ -1,6 +1,6 @@
 Das ist eine fiktive Konkordanz. Hier gilt es, vor jedem Satzzeichen ein Leerzeichen einzufügen.
 Hintergrund ist die sog. Tokenisierung, also das Aufsplitten des Textes in einzelne Wörter.
-Es wäre unschön, wenn das Wort "Wörter", gefolgt von einem Punkt (wie in der letzten Zeile),
-und das Wort "Wörter", umschlossen von Anführungszeichen (wie hier), als unterschiedliche
+Es wäre unschön, wenn das Wort Wörter, gefolgt von einem Punkt - wie in der letzten Zeile -,
+und das Wort Wörter, umschlossen von Anführungszeichen - wie hier -, als unterschiedliche
 Tokens gezählt würden! Deshalb werden in den meisten Korpora Satzzeichen als eigene Tokens
 gezählt, also quasi wie ein eigenes Wort behandelt.
