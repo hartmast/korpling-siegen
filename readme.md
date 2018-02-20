@@ -17,6 +17,12 @@ Einige Tutorials und Materialien sind direkt auf der Seite verlinkt, die Sie ger
 
 <a href="https://github.com/hartmast/korpling-siegen/raw/master/Korpuslinguistik01_Wissenschaftstheorie.pdf">Präsentation 01: Wissenschaftstheorie</a>
 
+<a href="https://github.com/hartmast/korpling-siegen/raw/master/Korpuslinguistik02_Software_Regex_Korpustheorie.pdf">Präsentation 02: Software, reguläre Ausdrücke; Korpustheorie</a>
+
+<a href="https://github.com/hartmast/korpling-siegen/raw/master/Korpuslinguistik03_Korpora_des_Deutschen_und_Fallbeispiele.pdf">Präsentation 03: Korpora des Deutschen; Fallbeispiele</a>
+
+<a href="https://github.com/hartmast/korpling-siegen/raw/master/Korpuslinguistik04_Webkorpora.pdf">Präsentation 04: Webkorpora</a>
+
 ## Tutorials
 Diese Tutorials stammen aus dem Begleitmaterial zu meinem demnächst erscheinenden Buch "Deutsche Sprachgeschichte. Grundzüge und Methoden". An einigen wenigen Stellen wird auf das Buch Bezug genommen; sie sind jedoch so konzipiert, dass man sie unabhängig von dem Buch lesen und benutzen kann.
 
