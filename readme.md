@@ -13,6 +13,8 @@ Einige Tutorials und Materialien sind direkt auf der Seite verlinkt, die Sie ger
 
 <a href="https://github.com/hartmast/korpling-siegen/raw/master/hausarbeiten.pdf" target="_blank">Leitfaden zum Verfassen einer sprachwissenschaftlichen Hausarbeit</a>
 
+<a href="https://github.com/hartmast/korpling-siegen/raw/master/Korpuslinguistik01_Wissenschaftstheorie.pdf">Präsentation 01: Wissenschaftstheorie</a>
+
 ## Tutorials
 Diese Tutorials stammen aus dem Begleitmaterial zu meinem demnächst erscheinenden Buch "Deutsche Sprachgeschichte. Grundzüge und Methoden". An einigen wenigen Stellen wird auf das Buch Bezug genommen; sie sind jedoch so konzipiert, dass man sie unabhängig von dem Buch lesen und benutzen kann.
 
