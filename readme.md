@@ -27,7 +27,7 @@ Einige Tutorials und Materialien sind direkt auf der Seite verlinkt, die Sie ger
 Diese Tutorials stammen aus dem Begleitmaterial zu meinem demnächst erscheinenden Buch "Deutsche Sprachgeschichte. Grundzüge und Methoden". An einigen wenigen Stellen wird auf das Buch Bezug genommen; sie sind jedoch so konzipiert, dass man sie unabhängig von dem Buch lesen und benutzen kann.
 
 ### Vom Korpus zur Konkordanz
-1.	<a href="https://github.com/hartmast/sprachgeschichte/raw/master/begleitmaterial/01-Grundlegendes.pdf">Grundlegendes: Software, Datenstrukturen, Encoding und das geheime Leben meines Computers</a>
+1.	<a href="https://github.com/hartmast/sprachgeschichte/raw/master/begleitmaterial/01-Grundlegendes.pdf">Grundlegendes: Software, Datenstrukturen, Encoding und das geheime Leben meines Computers</a> (inklusive Überblick zu den wichtigsten regulären Ausdrücken)
 2.	<a href="https://github.com/hartmast/sprachgeschichte/raw/master/begleitmaterial/02-Arbeitsschritte.pdf">Arbeitsschritte: Vom Korpus zur Konkordanz zur Analyse</a>
 3.	<a href="https://github.com/hartmast/sprachgeschichte/raw/master/begleitmaterial/03-ANNIS.pdf">Tutorial: ANNIS (Referenzkorpora Altdeutsch, Mittelhochdeutsch, Bonner Frühneuhochdeutschkorpus, ...)</a>
 4.	<a href="https://github.com/hartmast/sprachgeschichte/raw/master/begleitmaterial/04-CosmasII_Tutorial.pdf">Tutorial: COSMAS II (Deutsches Referenzkorpus)</a>
@@ -98,4 +98,6 @@ Sammlung von Internet-Korpora mit umfangreicher automatischer Annotation. Regist
 <a href="https://hartmast.github.io/sprachgeschichte/" target="_blank"> Digitales Begleitmaterial zu Hartmann (2018)</a>
 
 <a href="https://www.bubenhofer.com/korpuslinguistik/kurs/index.php?id=uebersicht.html" target="_blank">Noah Bubenhofer: Einführung in die Korpuslinguistik</a>
+
+<a href="https://www.regular-expressions.info/">Ausführlicher Überblick über reguläre Ausdrücke</a>
 
