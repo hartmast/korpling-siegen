@@ -33,6 +33,8 @@ Diese Tutorials stammen aus dem Begleitmaterial zu meinem demnächst erscheinend
 4.	<a href="https://github.com/hartmast/sprachgeschichte/raw/master/begleitmaterial/04-CosmasII_Tutorial.pdf">Tutorial: COSMAS II (Deutsches Referenzkorpus)</a>
 5.	<a href="https://github.com/hartmast/sprachgeschichte/raw/master/begleitmaterial/05-FnhdC.pdf">Tutorial: Bonner Frühneuhochdeutschkorpus (altes Interface)</a> (R-Skript im Ordner <a href="https://github.com/hartmast/sprachgeschichte/tree/master/begleitmaterial/FnhdC">FnhdC</a> auf GitHub)
 
+Außerdem: <a href="https://github.com/hartmast/korpling-siegen/blob/master/Tutorials/Wacky%20Tutorial.pdf">Wacky-Tutorial</a>
+
 ### Von der Konkordanz zur Analyse
 6.	<a href="https://github.com/hartmast/sprachgeschichte/raw/master/begleitmaterial/06-Tabellen%20und%20Grafiken%20mit%20Excel%20und%20Calc.pdf">Tutorial: Tabellen und Grafiken mit Excel und Calc</a> (Material dazu im Ordner <a href="https://github.com/hartmast/sprachgeschichte/tree/master/begleitmaterial/Excel_Einstieg">Excel_Einstieg</a> auf GitHub)
 7.	<a href="https://github.com/hartmast/sprachgeschichte/raw/master/begleitmaterial/07-Schnelleinstieg%20in%20R.pdf"> Tutorial: Schnelleinstieg in R</a> (Material dazu im Ordner <a href="https://github.com/hartmast/sprachgeschichte/tree/master/begleitmaterial/R_Einstieg">R_Einstieg</a> auf GitHub)
