@@ -107,3 +107,5 @@ Sammlung von Internet-Korpora mit umfangreicher automatischer Annotation. Regist
 
 <a href="https://www.regular-expressions.info/">Ausführlicher Überblick über reguläre Ausdrücke</a>
 
+<a href="https://korpuslab.github.io/lea/">LEA: Linguistic Excercises with Annotation Tools</a> - Sammlung von Annotationsaufgaben für Studierende (und Lehrende) von Fabian Barteld und Johanna Flick, enthält u.a. hilfreiche Materialien zur Arbeit mit CSV-Dateien.
+

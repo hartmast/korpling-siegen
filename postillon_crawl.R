@@ -13,7 +13,7 @@ postillon <- scan("http://www.der-postillon.com/", # selbsterklärend
                   sep="\n")                        # Zeilenumbruch trennt die einzelnen sog. Felder
 
 # Seiten finden, auf die die Startseite verlinkt
-seiten <- grep("<a href=\'http://www.der-postillon.com/.*\\.html", 
+seiten <- grep("<a href=\'https://www.der-postillon.com/.*\\.html", 
                postillon, 
                value=T)
 
