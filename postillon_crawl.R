@@ -136,7 +136,7 @@ for(i in 2:length(seiten)) {
 
 # Jetzt speichern wir den Text in einer Textdatei.
 write.table(unser_text,        # das Objekt, das in die Datei geschrieben werden soll
-            "post2018_1.txt",       # der Dateiname
+            "post2019_1.txt",       # der Dateiname
             quote=F,           # die einzelnen Wörter sollen nicht in Anführungszeichen stehen
             row.names = F,     # keine Zeilennummerierung
             col.names = F,     # keine Spaltennamen (sonst fügt er ganz oben ein "x" ein)
@@ -163,6 +163,9 @@ unser_getaggter_text <- treetag(unser_text,
                                                           preset = "de"), lang = "de", format = "obj")
 
 unser_getaggter_text
+
+# als dataframe
+unser_getaggter_text_dataframe <- unser_getaggter_text@TT.res
 
 # alternativ können wir den TreeTagger in der Kommandozeile verwenden
 
