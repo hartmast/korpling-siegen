@@ -30,7 +30,7 @@ Einige Tutorials und Materialien sind direkt auf der Seite verlinkt, die Sie ger
 <a href="https://github.com/hartmast/korpling-siegen/raw/master/Informationen_Hausarbeiten.pdf">Informationen zu Hausarbeiten</a>
 
 ## Tutorials
-Diese Tutorials stammen aus dem Begleitmaterial zu meinem demnächst erscheinenden Buch "Deutsche Sprachgeschichte. Grundzüge und Methoden". An einigen wenigen Stellen wird auf das Buch Bezug genommen; sie sind jedoch so konzipiert, dass man sie unabhängig von dem Buch lesen und benutzen kann.
+Diese Tutorials stammen aus dem Begleitmaterial zu meinem Buch "Deutsche Sprachgeschichte. Grundzüge und Methoden". An einigen wenigen Stellen wird auf das Buch Bezug genommen; sie sind jedoch so konzipiert, dass man sie unabhängig von dem Buch lesen und benutzen kann.
 
 ### Vom Korpus zur Konkordanz
 1.	<a href="https://github.com/hartmast/sprachgeschichte/raw/master/begleitmaterial/01-Grundlegendes.pdf">Grundlegendes: Software, Datenstrukturen, Encoding und das geheime Leben meines Computers</a> (inklusive Überblick zu den wichtigsten regulären Ausdrücken)
