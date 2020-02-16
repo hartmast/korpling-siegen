@@ -9,7 +9,7 @@ Einige Tutorials und Materialien sind direkt auf der Seite verlinkt, die Sie ger
 
 
 ## Kursmaterialien
-<a href="https://github.com/hartmast/korpling-siegen/raw/master/Seminarplan2019.pdf">Seminarplan</a>
+<a href="https://hartmast.github.io/pdf/Seminarplan2020.pdf" target="_blank">Seminarplan</a>
 
 <a href="https://github.com/hartmast/korpling-siegen/raw/master/hausarbeiten.pdf" target="_blank">Leitfaden zum Verfassen einer sprachwissenschaftlichen Hausarbeit</a>
 
@@ -30,7 +30,11 @@ Einige Tutorials und Materialien sind direkt auf der Seite verlinkt, die Sie ger
 <a href="https://github.com/hartmast/korpling-siegen/raw/master/Informationen_Hausarbeiten.pdf">Informationen zu Hausarbeiten</a>
 
 ## Tutorials
-Diese Tutorials stammen aus dem Begleitmaterial zu meinem Buch "Deutsche Sprachgeschichte. Grundzüge und Methoden". An einigen wenigen Stellen wird auf das Buch Bezug genommen; sie sind jedoch so konzipiert, dass man sie unabhängig von dem Buch lesen und benutzen kann.
+Diese Tutorials stammen zum Teil aus dem Begleitmaterial zu meinem Buch "Deutsche Sprachgeschichte. Grundzüge und Methoden". An einigen wenigen Stellen wird auf das Buch Bezug genommen; sie sind jedoch so konzipiert, dass man sie unabhängig von dem Buch lesen und benutzen kann.
+
+### Schnelleinstieg
+
+Einen Schnelleinstieg ins korpusbasierte Arbeiten am Beispiel von DWDS bietet <a href="https://empirical-linguistics.github.io/korpus-schnelleinstieg/" target="_blank"> dieses Tutorial</a>.
 
 ### Vom Korpus zur Konkordanz
 1.	<a href="https://github.com/hartmast/sprachgeschichte/raw/master/begleitmaterial/01-Grundlegendes.pdf">Grundlegendes: Software, Datenstrukturen, Encoding und das geheime Leben meines Computers</a> (inklusive Überblick zu den wichtigsten regulären Ausdrücken)
@@ -51,7 +55,7 @@ Außerdem: <a href="https://github.com/hartmast/korpling-siegen/blob/master/Tuto
 
 Für den Kurs brauchen Sie im Grunde nichts zu installieren, da alle Programme bereits auf den Rechnern im Sprachlabor vorinstalliert sind. Für den Fall, dass Sie zu Hause mit den Materialien arbeiten möchten, sind hier jedoch die einschlägigen (kostenlosen) Programme verlinkt.
  
-<a href="https://notepad-plus-plus.org/">Notepad++</a> Texteditor (nur Windows). Für Mac empfehle ich <a href="https://www.barebones.com/products/textwrangler/">TextWrangler bzw. BBEdit</a>. Der kostenlose TextWrangler wurde vom Entwickler eingestellt, ist aber noch im Mac-AppStore erhältlich. Man kann jedoch jetzt BBEdit - vormals das kostenpflichtige Pendant zu TextWrangler mit erweitertem Funktionsumfang - mit einem Funktionsumfang, der dem von TextWrangler entspricht, unbegrenzt kostenlos nutzen. Für Linux gibt es z.B. <a href="http://notepadqq.altervista.org/s/">Notepadqq</a>.  <strong>Fortgeschrittene</strong> können alternativ oder ergänzend auch auf einen Code-Editor wie <a href="https://atom.io/">Atom</a> oder <a href="https://code.visualstudio.com/">VSCode</a> zurückgreifen. Für AnfängerInnen rate ich jedoch davon ab, weil die Bedienung z.T. doch deutlich umständlicher ist als bei den o.g. Texteditoren.
+<a href="https://notepad-plus-plus.org/">Notepad++</a> Texteditor (nur Windows). Für Mac empfehle ich <a href="https://www.barebones.com/products/bbedit/">BBEdit</a>. Nach Ablauf einer Testphase kann man das Programm mit eingeschränktem Funktionsumfang, der aber für unsere Bedürfnisse voll und ganz ausreicht, unbegrenzt kostenlos nutzen. Für Linux gibt es z.B. <a href="http://notepadqq.altervista.org/s/">Notepadqq</a>.  <strong>Fortgeschrittene</strong> können alternativ oder ergänzend auch auf einen Code-Editor wie <a href="https://atom.io/">Atom</a> oder <a href="https://code.visualstudio.com/">VSCode</a> zurückgreifen. Für AnfängerInnen rate ich jedoch davon ab, weil die Bedienung z.T. doch deutlich umständlicher ist als bei den o.g. Texteditoren.
 
 <a href="https://www.r-project.org/">R</a> Statistik-Software und Programmiersprache, deren Benutzung in der quantitativen Linguistik mittlerweile zum Standard geworden ist.
 
@@ -74,6 +78,10 @@ Die beiden Referenzkorpora enthalten alle überlieferten Texte des Althochdeutsc
 
 Die Referenzkorpora werden in absehbarer Zeit ergänzt durch das Referenzkorpus Mittelniederdeutsch und das Referenzkorpus Frühneuhochdeutsch.
 
+
+<a href="https://korpora.zim.uni-due.de/FnhdC/" target="_blank">Bonner Frühneuhochdeutschkorpus</a>
+
+Ein relativ kleines Korpus fürs Frühneuhochdeutsche, über ANNIS verfügbar. Vorsicht: Einige Annotationsebenen existieren doppelt, einmal im Namespace "default_ns", einmal im Namespace "anno". Das führt dazu, dass Resultate doppelt gefunden werden. Um das zu vermeiden, empfiehlt es sich, der Suche die Angabe des Namespace voranzustellen, z.B. <a href="https://korpora.zim.uni-due.de/annis/?id=56c6f8d6-6468-4f5b-8e8e-babf607a74a4" target="_blank">`default_ns:typ=‎"verb‎"`</a>.
 
 <a href="http://deutschestextarchiv.de/" target="_blank">Deutsches Textarchiv</a>
 
