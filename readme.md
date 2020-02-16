@@ -11,23 +11,23 @@ Einige Tutorials und Materialien sind direkt auf der Seite verlinkt, die Sie ger
 ## Kursmaterialien
 <a href="https://hartmast.github.io/korpling-siegen/pdf/Seminarplan2020.pdf" target="_blank">Seminarplan</a>
 
-<a href="https://github.com/hartmast/korpling-siegen/raw/master/hausarbeiten.pdf" target="_blank">Leitfaden zum Verfassen einer sprachwissenschaftlichen Hausarbeit</a>
+<a href="https://hartmast.github.io/korpling-siegen/hausarbeiten.pdf" target="_blank">Leitfaden zum Verfassen einer sprachwissenschaftlichen Hausarbeit</a>
 
 ### Präsentationen
 
-<a href="https://github.com/hartmast/korpling-siegen/raw/master/Korpuslinguistik01_Wissenschaftstheorie.pdf">Präsentation 01: Wissenschaftstheorie</a>
+<a href="https://hartmast.github.io/korpling-siegen/Korpuslinguistik01_Wissenschaftstheorie.pdf">Präsentation 01: Wissenschaftstheorie</a>
 
-<a href="https://github.com/hartmast/korpling-siegen/raw/master/Korpuslinguistik02_Software_Regex_Korpustheorie.pdf">Präsentation 02: Software, reguläre Ausdrücke; Korpustheorie</a>
+<a href="https://hartmast.github.io/korpling-siegen/Korpuslinguistik02_Software_Regex_Korpustheorie.pdf">Präsentation 02: Software, reguläre Ausdrücke; Korpustheorie</a>
 
-<a href="https://github.com/hartmast/korpling-siegen/raw/master/Korpuslinguistik03_Korpora_des_Deutschen_und_Fallbeispiele.pdf">Präsentation 03: Korpora des Deutschen; Fallbeispiele</a>
+<a href="https://hartmast.github.io/korpling-siegen/Korpuslinguistik03_Korpora_des_Deutschen_und_Fallbeispiele.pdf">Präsentation 03: Korpora des Deutschen; Fallbeispiele</a>
 
-<a href="https://github.com/hartmast/korpling-siegen/raw/master/Korpuslinguistik04_Webkorpora.pdf">Präsentation 04: Webkorpora</a>
+<a href="https://hartmast.github.io/korpling-siegen/Korpuslinguistik04_Webkorpora.pdf">Präsentation 04: Webkorpora</a>
 
-<a href="https://github.com/hartmast/korpling-siegen/raw/master/Korpuslinguistik05_Korpora_und_Semantik.pdf">Präsentation 05: Basiswissen Statistik</a>
+<a href="https://hartmast.github.io/korpling-siegen/Korpuslinguistik05_Korpora_und_Semantik.pdf">Präsentation 05: Basiswissen Statistik</a>
 
-<a href="https://github.com/hartmast/korpling-siegen/raw/master/Korpuslinguistik06_Statistik_Basiswissen.pdf">Präsentation 06: Basiswissen Statistik</a>
+<a href="https://hartmast.github.io/korpling-siegen/Korpuslinguistik06_Statistik_Basiswissen.pdf">Präsentation 06: Basiswissen Statistik</a>
 
-<a href="https://github.com/hartmast/korpling-siegen/raw/master/Informationen_Hausarbeiten.pdf">Informationen zu Hausarbeiten</a>
+<a href="https://hartmast.github.io/korpling-siegen/Informationen_Hausarbeiten.pdf">Informationen zu Hausarbeiten</a>
 
 ## Tutorials
 Diese Tutorials stammen zum Teil aus dem Begleitmaterial zu meinem Buch "Deutsche Sprachgeschichte. Grundzüge und Methoden". An einigen wenigen Stellen wird auf das Buch Bezug genommen; sie sind jedoch so konzipiert, dass man sie unabhängig von dem Buch lesen und benutzen kann.
