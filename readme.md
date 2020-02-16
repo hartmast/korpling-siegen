@@ -9,7 +9,7 @@ Einige Tutorials und Materialien sind direkt auf der Seite verlinkt, die Sie ger
 
 
 ## Kursmaterialien
-<a href="https://hartmast.github.io/pdf/Seminarplan2020.pdf" target="_blank">Seminarplan</a>
+<a href="https://hartmast.github.io/korpling-siegen/pdf/Seminarplan2020.pdf" target="_blank">Seminarplan</a>
 
 <a href="https://github.com/hartmast/korpling-siegen/raw/master/hausarbeiten.pdf" target="_blank">Leitfaden zum Verfassen einer sprachwissenschaftlichen Hausarbeit</a>
 
