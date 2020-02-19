@@ -15,19 +15,19 @@ Einige Tutorials und Materialien sind direkt auf der Seite verlinkt, die Sie ger
 
 ### Präsentationen
 
-<a href="https://hartmast.github.io/korpling-siegen/Korpuslinguistik01_Wissenschaftstheorie.pdf">Präsentation 01: Wissenschaftstheorie</a>
+<a href="https://hartmast.github.io/korpling-siegen/Korpuslinguistik01_Wissenschaftstheorie.pdf" target="_blank">Präsentation 01: Wissenschaftstheorie</a>
 
-<a href="https://hartmast.github.io/korpling-siegen/Korpuslinguistik02_Software_Regex_Korpustheorie.pdf">Präsentation 02: Software, reguläre Ausdrücke; Korpustheorie</a>
+<a href="https://hartmast.github.io/korpling-siegen/Korpuslinguistik02_Software_Regex_Korpustheorie.pdf" target="_blank">Präsentation 02: Software, reguläre Ausdrücke; Korpustheorie</a>
 
-<a href="https://hartmast.github.io/korpling-siegen/Korpuslinguistik03_Korpora_des_Deutschen_und_Fallbeispiele.pdf">Präsentation 03: Korpora des Deutschen; Fallbeispiele</a>
+<a href="https://hartmast.github.io/korpling-siegen/Korpuslinguistik03_Korpora_des_Deutschen_und_Fallbeispiele.pdf" target="_blank">Präsentation 03: Korpora des Deutschen; Fallbeispiele</a>
 
-<a href="https://hartmast.github.io/korpling-siegen/Korpuslinguistik04_Webkorpora.pdf">Präsentation 04: Webkorpora</a>
+<a href="https://hartmast.github.io/korpling-siegen/Korpuslinguistik04_Webkorpora.pdf" target="_blank">Präsentation 04: Webkorpora</a>
 
-<a href="https://hartmast.github.io/korpling-siegen/Korpuslinguistik05_Korpora_und_Semantik.pdf">Präsentation 05: Basiswissen Statistik</a>
+<a href="https://hartmast.github.io/korpling-siegen/Korpuslinguistik05_Korpora_und_Semantik.pdf" target="_blank">Präsentation 05: Basiswissen Statistik</a>
 
-<a href="https://hartmast.github.io/korpling-siegen/Korpuslinguistik06_Statistik_Basiswissen.pdf">Präsentation 06: Basiswissen Statistik</a>
+<a href="https://hartmast.github.io/korpling-siegen/Korpuslinguistik06_Statistik_Basiswissen.pdf" target="_blank">Präsentation 06: Basiswissen Statistik</a>
 
-<a href="https://hartmast.github.io/korpling-siegen/Informationen_Hausarbeiten.pdf">Informationen zu Hausarbeiten</a>
+<a href="https://hartmast.github.io/korpling-siegen/Informationen_Hausarbeiten.pdf" target="_blank">Informationen zu Hausarbeiten</a>
 
 ## Tutorials
 Diese Tutorials stammen zum Teil aus dem Begleitmaterial zu meinem Buch "Deutsche Sprachgeschichte. Grundzüge und Methoden". An einigen wenigen Stellen wird auf das Buch Bezug genommen; sie sind jedoch so konzipiert, dass man sie unabhängig von dem Buch lesen und benutzen kann.
@@ -37,11 +37,11 @@ Diese Tutorials stammen zum Teil aus dem Begleitmaterial zu meinem Buch "Deutsch
 Einen Schnelleinstieg ins korpusbasierte Arbeiten am Beispiel von DWDS bietet <a href="https://empirical-linguistics.github.io/korpus-schnelleinstieg/" target="_blank"> dieses Tutorial</a>.
 
 ### Vom Korpus zur Konkordanz
-1.	<a href="https://github.com/hartmast/sprachgeschichte/raw/master/begleitmaterial/01-Grundlegendes.pdf">Grundlegendes: Software, Datenstrukturen, Encoding und das geheime Leben meines Computers</a> (inklusive Überblick zu den wichtigsten regulären Ausdrücken)
-2.	<a href="https://github.com/hartmast/sprachgeschichte/raw/master/begleitmaterial/02-Arbeitsschritte.pdf">Arbeitsschritte: Vom Korpus zur Konkordanz zur Analyse</a>
-3.	<a href="https://github.com/hartmast/sprachgeschichte/raw/master/begleitmaterial/03-ANNIS.pdf">Tutorial: ANNIS (Referenzkorpora Altdeutsch, Mittelhochdeutsch, Bonner Frühneuhochdeutschkorpus, ...)</a>
-4.	<a href="https://github.com/hartmast/sprachgeschichte/raw/master/begleitmaterial/04-CosmasII_Tutorial.pdf">Tutorial: COSMAS II (Deutsches Referenzkorpus)</a>
-5.	<a href="https://github.com/hartmast/sprachgeschichte/raw/master/begleitmaterial/05-FnhdC.pdf">Tutorial: Bonner Frühneuhochdeutschkorpus (altes Interface)</a> (R-Skript im Ordner <a href="https://github.com/hartmast/sprachgeschichte/tree/master/begleitmaterial/FnhdC">FnhdC</a> auf GitHub)
+1.	<a href="https://hartmast.github.io/sprachgeschichte/begleitmaterial/01-Grundlegendes.pdf" target="_blank">Grundlegendes: Software, Datenstrukturen, Encoding und das geheime Leben meines Computers</a> (inklusive Überblick zu den wichtigsten regulären Ausdrücken)
+2.	<a href="https://hartmast.github.io/sprachgeschichte/begleitmaterial/02-Arbeitsschritte.pdf" target="_blank">Arbeitsschritte: Vom Korpus zur Konkordanz zur Analyse</a>
+3.	<a href="https://hartmast.github.io/sprachgeschichte/begleitmaterial/03-ANNIS.pdf">Tutorial: ANNIS (Referenzkorpora Altdeutsch, Mittelhochdeutsch, Bonner Frühneuhochdeutschkorpus, ...)</a>
+4.	<a href="https://hartmast.github.io/sprachgeschichte/begleitmaterial/04-CosmasII_Tutorial.pdf">Tutorial: COSMAS II (Deutsches Referenzkorpus)</a>
+5.	<a href="https://hartmast.github.io/sprachgeschichte/begleitmaterial/05-FnhdC.pdf">Tutorial: Bonner Frühneuhochdeutschkorpus (altes Interface)</a> (R-Skript im Ordner <a href="https://github.com/hartmast/sprachgeschichte/tree/master/begleitmaterial/FnhdC">FnhdC</a> auf GitHub)
 
 Außerdem: <a href="https://github.com/hartmast/korpling-siegen/blob/master/Tutorials/Wacky%20Tutorial.pdf">Wacky-Tutorial</a>
 
