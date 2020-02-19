@@ -23,7 +23,7 @@ Einige Tutorials und Materialien sind direkt auf der Seite verlinkt, die Sie ger
 
 <a href="https://hartmast.github.io/korpling-siegen/Korpuslinguistik04_Webkorpora.pdf" target="_blank">Präsentation 04: Webkorpora</a>
 
-<a href="https://hartmast.github.io/korpling-siegen/Korpuslinguistik05_Korpora_und_Semantik.pdf" target="_blank">Präsentation 05: Basiswissen Statistik</a>
+<a href="https://hartmast.github.io/korpling-siegen/Korpuslinguistik05_Korpora_und_Semantik.pdf" target="_blank">Präsentation 05: Korpora und Semantik</a>
 
 <a href="https://hartmast.github.io/korpling-siegen/Korpuslinguistik06_Statistik_Basiswissen.pdf" target="_blank">Präsentation 06: Basiswissen Statistik</a>
 
