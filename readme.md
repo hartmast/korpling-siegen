@@ -2,7 +2,7 @@
 
 
 ## LINK ZUM GOOGLEDOC für Annotationsübung:
-https://docs.google.com/spreadsheets/d/1MUWuj6m0r45alGhq26IpMtnabVAuMfKT9hq8HADhZcQ/edit#gid=0
+<a href="https://docs.google.com/spreadsheets/d/1MUWuj6m0r45alGhq26IpMtnabVAuMfKT9hq8HADhZcQ/edit#gid=0" target="_blank">hier</a>
 
 
 Willkommen zum Blockseminar "Korpuslinguistik in der historischen Sprachwissenschaft des Deutschen"! Hier finden Sie die Materialien für das Seminar sowie einige (hoffentlich) nützliche Links.
